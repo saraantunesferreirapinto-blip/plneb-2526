@@ -8,5 +8,5 @@ def balanceado (s1, s2):
             break
     return res
 
-print(balanceado ("sara", "sarar"))
+print(balanceado ("sara", "araras"))
 print(balanceado ("sara", "ana"))
